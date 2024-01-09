@@ -2,7 +2,7 @@
   "name": "tree-sitter-ng-template",
   "version": "0.0.0",
   "description": "Treesitter parser for angular html template",
-  "main": "index.js",
+  "main": "bindings/node",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,5 +10,8 @@
   "license": "MIT",
   "dependencies": {
     "nan": "^2.18.0"
+  },
+  "devDependencies": {
+    "tree-sitter-cli": "^0.20.8"
   }
 }
