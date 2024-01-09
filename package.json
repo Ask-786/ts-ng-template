@@ -1,0 +1,14 @@
+{
+  "name": "tree-sitter-ng-template",
+  "version": "0.0.0",
+  "description": "Treesitter parser for angular html template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ask-786",
+  "license": "MIT",
+  "dependencies": {
+    "nan": "^2.18.0"
+  }
+}
